@@ -37,9 +37,7 @@ Communication between tasks is achieved using FreeRTOS queue.
 ## Demo
 
 ### Video Demonstration
-![Demo Video](./DemoVideo.mp4)
-
-https://github.com/prashantbhandary/Led-Flicker-With-Button/DemoVideo.mp4
+![Demo Video of thi repo](./DemoVideo.mp4)
 
 ### Images
 ![Project Image 1](./image1.png)
