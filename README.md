@@ -39,6 +39,8 @@ Communication between tasks is achieved using FreeRTOS queue.
 ### Video Demonstration
 ![Demo Video of thi repo](./DemoVideo.mp4)
 
+Link: https://www.instagram.com/p/DP3T8p-kqQo/
+
 ### Images
 ![Project Image 1](./image1.png)
 
